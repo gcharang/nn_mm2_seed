@@ -8,7 +8,7 @@ Operators with the best metrics in terms of uptime and responsiveness to updates
 
 **For each hour of uptime with the correct version, Notary Nodes will receive 0.2 points to their season score.**
 
-You'll need to open port 38890 - `sudo ufw allow 38890`
+You'll need to open port 42845 - `sudo ufw allow 42845`
 
 
 
